@@ -1,1 +1,2 @@
-# This is the repository for the prayog blog
+This repository for hosting my page at https://sanidhyavijaywat.co.in
+
