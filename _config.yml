@@ -3,13 +3,13 @@
 #
 
 # Name of the site (displayed in the header)
-name: Space and Data Science Blog
+name: Galactic Graphs
 
 # Short bio or description (displayed in the header)
-description: by Sanidhya Vijaywat
+description: A Space Tech and Data Science Blog
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://github.com/quakthemaster/sanidhyavijaywat/blob/main/images/sanidhya_logo.png?raw=true
+avatar: https://github.com/quakthemaster/sanidhyavijaywat/blob/main/images/Galactic_graphs_logo.png?raw=true
 
 #
 # Flags below are optional
@@ -22,13 +22,13 @@ footer-links:
   facebook:
   flickr:
   github: quakthemaster
-  instagram: 
+  instagram: sanidhya.space
   linkedin: sanidhyahere
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: trulysanidhya
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: # channel/<your_long_string> or user/<user-name>
+  youtube: channel/UCJHflRd95rwZPbUt6hYFIfA # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
 
 
