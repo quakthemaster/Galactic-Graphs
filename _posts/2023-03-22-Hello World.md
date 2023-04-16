@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hello World !
+title: B000 - Hello World !
 ---
 
 Hello World! This is my first blog post. I have been thinking of starting the blog for a very long time but finally it officially starts on 22 Mar. 2023. Coincidentially this is also the start of a new year as the Hindu calender. 
