@@ -21,9 +21,10 @@ I presented this idea on a two slide PPT during the meeting, and it was well app
 
 
 <p align="justify"> 
-As <a href="https://www.isro.gov.in/">ISRO</a> is preparing itself for the launch of it's workhorse rocket <a href = "https://www.isro.gov.in/PSLV_CON.html">PSLV</a> on <a href= "https://timesofindia.indiatimes.com/india/with-pslv-c55-mission-isro-uses-new-rocket-integration-technique-to-cut-time/articleshow/99446716.cms?from=mdr">22nd April 2023</a>, I am eagerly waiting for PILOT to fly. I am sure this excitement is much more for the students and faculty members who worked on the project. 
+As <a href="https://www.isro.gov.in/">ISRO</a> is preparing itself for the launch of it's workhorse rocket <a href = "https://www.isro.gov.in/PSLV_CON.html">PSLV</a> on <a href= "https://timesofindia.indiatimes.com/india/with-pslv-c55-mission-isro-uses-new-rocket-integration-technique-to-cut-time/articleshow/99446716.cms?from=mdr">22nd April 2023</a>, I am eagerly waiting for PILOT to fly. I am sure this excitement is much more for the students and faculty members who have worked on the project. 
 </p>
  
+Here are some photos of the PILOT package 
 Click here to know more about [PILOT]({{ site.baseurl }}/projects/pilot/).
  
 
