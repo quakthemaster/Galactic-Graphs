@@ -10,7 +10,7 @@ PILOT stands for <b>P</b>SLV <b>I</b>n-Orbital <b>O</b>BC and <b>T</b>hermals is
 
 Brief specifications of PILOT are as follows - 
 
-1. Size - 1U (10 cm x 10 cm x 10 cm )
+1. Size - 1U (10 cm x 10 cm x 10 cm)
 2. Mass < 1kg
 3. Power - 5 V/ 2 W
 
