@@ -1,23 +1,73 @@
 ---
-layout: page
+layout: default
 title: Projects
 permalink: /projects/
 ---
 
-## Software Projects
+<h2>Data Science Project</h2>
+<h2>Satellite Projects</h2>
+
+Through out my course duration at IIST, I have worked on various satellite projects.
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="/projects/inspiresat1/">
+      <img src="\projects\project_inspiresat1\inspiresat_001.png" alt="INSPIRESAT-1" width="600" height="400">
+    </a>
+    <div class="desc">INSPIRESAT-1</div>
+  </div>
+</div>
 
 
-## Hardware Projects
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="/projects/pilot/">
+      <img src="\projects\project_inspiresat1\pilot_001.jpg" alt="Forest" width="600" height="400">
+    </a>
+    <div class="desc">PILOT</div>
+  </div>
+</div>
 
-1. <a href="{{ site.baseurl }}/projects/project_cdh/">C&DH subsystem for small satellites</a>
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="/projects/aarest/">
+      <img src="img_lights.jpg" alt="Northern Lights" width="600" height="400">
+    </a>
+    <div class="desc">IIST AAResT Mirror Satellite</div>
+  </div>
+</div>
 
-## Satellite Projects
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="img_mountains.jpg">
+      <img src="img_mountains.jpg" alt="Mountains" width="600" height="400">
+    </a>
+    <div class="desc">OBC for Small Satellites</div>
+  </div>
+</div>
 
-1. <a href="{{ site.baseurl }}/projects/inspiresat1/">INSPIRE-SAT1</a>
-2. <a href="{{ site.baseurl }}/projects/pilot/">PILOT</a>
-3. <a href="{{ site.baseurl }}/projects/iistaarest/">IIST AAReST Mirror Satellite</a>
-4. <a href="{{ site.baseurl }}/projects/inspiresat3/">INSPIRE-SAT3</a>
+
+
+<div style="padding:6px;">
+  <p>This example use media queries to re-arrange the images on different screen sizes: for screens larger than 700px wide, it will show four images side by side, for screens smaller than 700px, it will show two images side by side. For screens smaller than 500px, the images will stack vertically (100%).</p>
+  <p>You will learn more about media queries and responsive web design later in our CSS Tutorial.</p>
+</div>
 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.

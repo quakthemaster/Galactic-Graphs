@@ -34,4 +34,4 @@ PILOT's <a href="https://sanidhyavijaywat.co.in/projects/project_cdh/">OBC</a> r
 
 Related Blogs -
 
-1. [B002 - PILOT is flying !](https://sanidhyavijaywat.co.in/Pilot-is-flying/)
+1. [B002 - PILOT is flying !](https://vijaywatsanidhya.medium.com/pilot-is-flying-6f0b3a0dfb3b)
